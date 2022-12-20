@@ -1,4 +1,4 @@
 # Movie-Android-App
-Contributors: WEI Xinying, SUN Zhiyuan, ZHENG Jiawen, WANG Ruoxuan
+Contributors: WEI Xinying, SUN Zhiyuan, WANG Ruoxuan, ZHENG Jiawen
 
 Project was finished in May 2020.
